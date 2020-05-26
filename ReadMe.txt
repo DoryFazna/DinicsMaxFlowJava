@@ -1,10 +1,6 @@
 This is the solution code for Maximum flow problem
 Followed Algorithm - Dinic's Algorithm
 
-Student Details
----------------
-UOW ID - w1716295
-IIT ID - 2017457
 
 5 classes
 ----------
